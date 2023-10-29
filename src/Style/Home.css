@@ -1,0 +1,13 @@
+.home button{
+    position:relative;
+    left:40%;
+    padding:10px 15px;
+    margin-top:29px;
+    
+}
+.home{
+    position: relative;
+    z-index: 1;
+    background-color: rgb(11, 52, 88);
+    padding-bottom: 7px;
+}

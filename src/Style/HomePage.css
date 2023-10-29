@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Arimo:wght@500&family=Mulish:wght@300&family=Open+Sans:wght@300&family=Pacifico&family=Satisfy&display=swap');
+
+.homePage{
+    text-align: center;
+    color:white;
+    font-family: 'Arimo', sans-serif;
+}
+
+.homePage h1{
+    font-size: 25vh;
+}
+.homePage h2{
+    font-size: xx-large;
+}
+.homePage sub{
+    position: relative;
+bottom:18vh;
+left:22%;
+font-size: large;
+}
